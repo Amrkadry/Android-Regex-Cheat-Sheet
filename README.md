@@ -1,10 +1,12 @@
 # Android Regex Cheat Sheet
+![77](https://github.com/user-attachments/assets/a0225593-4ad1-40a6-a553-3ef8858a7e01)
 
 A regex collection to help quickly perform static analysis on decompiled Android APKs. Designed for  detection of security controls (root / tamper / hooking), secrets, Raw SQL usage, Native library, WebView configurations, and more.
 
 **Usage:** Decompile the APK, and search using these regex patterns to quickly locate relevant code.
 
-![77](https://github.com/user-attachments/assets/a0225593-4ad1-40a6-a553-3ef8858a7e01)
+
+<img width="2560" height="1226" alt="1" src="https://github.com/user-attachments/assets/2760f5ae-d5c7-4040-8c42-048896b590bc" />
 
 
 
